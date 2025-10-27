@@ -1,0 +1,18 @@
+# Logs and outputs
+logs/
+*.log
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
